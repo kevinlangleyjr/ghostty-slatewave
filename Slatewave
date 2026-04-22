@@ -1,0 +1,35 @@
+# Slatewave — Ghostty theme
+# https://getslatewave.com
+#
+# A calm, slate-and-teal palette tuned to match the Slatewave theme family
+# (VSCode, Obsidian, oh-my-posh). ANSI mappings mirror the VSCode theme so
+# that terminal output inside and outside the editor stays visually aligned.
+
+background = #282c34
+foreground = #e2e8f0
+
+cursor-color = #5eead4
+cursor-text  = #282c34
+
+selection-background = #334155
+selection-foreground = #e2e8f0
+
+# Normal
+palette = 0=#1e293b
+palette = 1=#fb7185
+palette = 2=#5eead4
+palette = 3=#b45309
+palette = 4=#38bdf8
+palette = 5=#b388ff
+palette = 6=#0e7490
+palette = 7=#e2e8f0
+
+# Bright
+palette = 8=#475569
+palette = 9=#ef5350
+palette = 10=#99f6e4
+palette = 11=#fbbf24
+palette = 12=#7dd3fc
+palette = 13=#c4b5fd
+palette = 14=#67e8f9
+palette = 15=#f1f5f9
