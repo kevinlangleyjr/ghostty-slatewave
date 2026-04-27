@@ -12,6 +12,8 @@ A Slatewave theme for [Ghostty](https://ghostty.org) — slate foundation, teal 
 
 > _Slate below, teal above._
 
+![Slatewave prompt preview](docs/preview.png)
+
 </div>
 
 ---
